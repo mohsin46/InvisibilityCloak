@@ -1,4 +1,8 @@
 # InvisibilityCloak
+
+This was created as a part of miniproject for our audit course in Image Processing.
+Made by Aparna Jadhav and Mohsin Shaikh under guidance of Prof. Vaibhav Vasani and Prof. Swapnil Pawar of K.J Somaiya College of Engineering, Vidyavihar.
+
 Makes a cloak invisible by creating masks using opencv
 
 With setColor you can dynamically add the range of hsv values of your cloak by simultaneously checking
